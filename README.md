@@ -8,7 +8,7 @@ In order to use fake-api endpoints, we have to start our json-server.
  npm i json-server -g			<br/>
  json-server --watch data/db.json --port 3500			
 
-Than runs the app in the development mode.\ <br/>
+Than runs the app in the development mode. <br/>
 npm run start
 <br/>
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
